@@ -1,2 +1,3 @@
-# ArtisanAr.github.io
-Landing page for our application idea
+# Artisan
+
+Created by Joel Marquez, Michael Xiao, Rasmi Lamichhane
